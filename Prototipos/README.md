@@ -1,4 +1,4 @@
-Carpeta de prototipos 
+Carpeta de prototipos: 
 Aquí se almacenan los prototipos de **baja** y **alta fidelidad** del proyecto de la plataforma web para barberías y peluquerías.
 
 Los prototipos fueron creados usando las herramientas [Draw.io](https://app.diagrams.net/) y [Moqups](https://app.moqups.com/).
