@@ -1,0 +1,41 @@
+# Dependencias de Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+*.log
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# Archivos de compilación y distribución
+dist/
+build/
+*.tgz
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+
+# Archivos de base de datos local
+*.db
+*.sqlite
+*.sqlite3
+
+# Caché
+.cache/

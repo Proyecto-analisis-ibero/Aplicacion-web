@@ -1,0 +1,30 @@
+{
+  "name": "peluqueria-rizos-de-oro",
+  "version": "1.0.0",
+  "description": "Backend MVC para sistema de citas, estilistas, servicios, notificaciones y reportes en Node.js + Express + MySQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "mysql",
+    "mvc",
+    "api-rest",
+    "nodejs",
+    "peluqueria",
+    "backend"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
